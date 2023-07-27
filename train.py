@@ -1,4 +1,4 @@
-import pytorch_lightning as L
+import lightning as L
 import torch
 import torch.nn.functional as F
 from torch import nn
